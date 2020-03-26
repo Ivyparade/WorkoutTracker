@@ -2,4 +2,4 @@
 
 This app uses mongoDB to manage workouts
 
-![](screenshot\fitnesstrackerscreenshot.PNG)
+![](https://github.com/Ivyparade/WorkoutTracker/blob/master/screenshot/fitnesstrackerscreenshot.PNG)
